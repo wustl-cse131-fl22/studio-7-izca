@@ -1,0 +1,1 @@
+memberSearchIndex = [{"p":"studio7","c":"studio7","l":"getArea()"},{"p":"studio7","c":"studio7","l":"getPer()"},{"p":"studio7","c":"studio7","l":"main(String[])","u":"main(java.lang.String[])"},{"p":"studio7","c":"studio7","l":"square()"},{"p":"studio7","c":"studio7","l":"studio7(double, double)","u":"%3Cinit%3E(double,double)"}];updateSearchResults();
